@@ -1,4 +1,4 @@
-# Simple-Image-Search
+# Simple Image Search
 
 **CURRENTLY ONLY USABLE ON DESKTOP**
 
