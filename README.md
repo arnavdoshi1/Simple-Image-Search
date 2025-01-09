@@ -7,5 +7,6 @@ useful for quick and easy image access.
 showcases web development languages; html, css, javascript
 
 [https://simpleimagesearch.netlify.app/](https://simpleimagesearch.netlify.app/)
-<img width="811" alt="image" src="https://github.com/user-attachments/assets/b4757698-dd66-4ac5-b29b-4dc49da1bff1" />
+<img width="585" alt="image" src="https://github.com/user-attachments/assets/a6ca8800-1f66-46e0-b6ed-1a17842ecb8c" />
+
 
