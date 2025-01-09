@@ -8,6 +8,7 @@ showcases web development languages; html, css, javascript
 
 [https://simpleimagesearch.netlify.app/](https://simpleimagesearch.netlify.app/)
 
-<img width="585" alt="image" src="https://github.com/user-attachments/assets/a6ca8800-1f66-46e0-b6ed-1a17842ecb8c" />
+![image](https://github.com/user-attachments/assets/ef78bfc6-ed8c-4256-967f-2f464a143b0b)
+
 
 
