@@ -6,6 +6,7 @@ clean and user-friendly image search that gives users exactly what they want; im
 no need to endlessly scroll for image results.
 useful for quick and easy image access.
 showcases web development languages; html, css, javascript
+
 image source api: pixabay
 
 [https://simpleimagesearch.netlify.app/](https://simpleimagesearch.netlify.app/)
